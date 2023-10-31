@@ -1,14 +1,16 @@
 
 # Graduation Projects
 
-```diff
-- I am in the zoom meeting now, you can attend.
-```
-
-Our next meeting will be on 1 December, Insha Allah 
-- First Group @ 17:00 (The group we spoke together after the Midterm)
-- Second Group @ 17:45
-- Third Group @ 18:30
+Our next meeting will be on next Saturday, Insha Allah. 
+- @ 19:00 - Group 1 (Nursing and medical services)
+- @ 19:45 - Group 2 (Developing emerging and small companies)
+- @ 20:30 - Group 3 (Inventory management)
 
 ### Zoom Link
-https://us05web.zoom.us/j/84567940896?pwd=MFFrbjl2MkdoQnMwMHdtWjJjbCs5dz09
+https://us05web.zoom.us/j/83518532308?pwd=NXNJVXRTZmQ0dnhuU3A5ODNtanBRUT09
+
+<!--
+```diff
+- I am in the Zoom meeting now, you can attend.
+```
+-->
