@@ -7,7 +7,7 @@ https://us05web.zoom.us/j/83518532308?pwd=NXNJVXRTZmQ0dnhuU3A5ODNtanBRUT09
 https://us05web.zoom.us/j/83518532308?pwd=NXNJVXRTZmQ0dnhuU3A5ODNtanBRUT09
 -->
 
-<!--
+
 Our next meeting for the following projects will be on **Friday 1 Dec.**, Insha Allah. 
 - @ 19:00 - Developing emerging and small companies
 - @ 19:45 - Currency Detection
@@ -15,7 +15,7 @@ Our next meeting for the following projects will be on **Friday 1 Dec.**, Insha 
 Our next meeting for the following projects will be on **Saturday 2 Dec.**, Insha Allah. 
 - @ 19:00 - Nursing and medical services
 - @ 19:45 - Inventory Management
--->
+
 
 <!--
 Our next meeting will be on **Saturday 25 Nov.**, Insha Allah. 
