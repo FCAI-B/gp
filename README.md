@@ -2,14 +2,18 @@
 # Graduation Projects
 ### Zoom Link
 https://us05web.zoom.us/j/83518532308?pwd=NXNJVXRTZmQ0dnhuU3A5ODNtanBRUT09
-<!--
-### Zoom Link
-https://us05web.zoom.us/j/83518532308?pwd=NXNJVXRTZmQ0dnhuU3A5ODNtanBRUT09
--->
 
 Our meeting for the following projects will be on **13 Dec. at 7:00 pm** <ins>(Both Teams together)</ins>, Insha Allah. 
 - Currency Detection
 - Inventory Management
+
+<!--
+Our next meeting for the following projects will be on **Friday 29 Dec.**, Insha Allah. 
+-->
+
+
+
+
 
 <!--
 Our next meeting for the following projects will be on **Friday 1 Dec.**, Insha Allah. 
