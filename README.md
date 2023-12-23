@@ -3,15 +3,20 @@
 ### Zoom Link
 https://us05web.zoom.us/j/83518532308?pwd=NXNJVXRTZmQ0dnhuU3A5ODNtanBRUT09
 
+Our next meeting for the following projects will be on **Friday 29 Dec.**, Insha Allah:
+- @ 19:00 - Currency Vision for Visually Impaired
+- @ 19:15 - Inventory Management
+- @ 19:30 - On-demand Nursing and Medical Services System
+- @ 19:45 - Developing Small and Midsize Enterprise Using Introductory Sites
+
+
+
+
+<!--
 Our meeting for the following projects will be on **13 Dec. at 7:00 pm** <ins>(Both Teams together)</ins>, Insha Allah. 
 - Currency Detection
 - Inventory Management
-
-<!--
-Our next meeting for the following projects will be on **Friday 29 Dec.**, Insha Allah. 
 -->
-
-
 
 
 
