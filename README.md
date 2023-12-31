@@ -3,12 +3,16 @@
 ### Zoom Link
 https://us05web.zoom.us/j/83518532308?pwd=NXNJVXRTZmQ0dnhuU3A5ODNtanBRUT09
 
+<!--Our next meeting for the following projects will be on ** 2 Feb.** Insha Allah.-->
+Please send all that you achieve in the project before **31 Jan.**
+
+<!--
 Our next meeting for the following projects will be on **Friday 29 Dec.**, Insha Allah:
 - @ 19:00 - Currency Vision for Visually Impaired
 - @ 19:15 - Inventory Management
 - @ 19:30 - On-demand Nursing and Medical Services System
 - @ 19:45 - Developing Small and Midsize Enterprise Using Introductory Sites
-
+-->
 
 
 
