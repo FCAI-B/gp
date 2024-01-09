@@ -1,8 +1,17 @@
 
 # Graduation Projects
+
+### Notes
+- Two teams have contacted Eng. Omar
+- And only one team has contacted Eng. Mai.
+```diff
++ The missed project team members should contact Eng. Mai and send their work.
+- Eng. Mai and Eng Omar put degrees for those who work with them.
+```
+- I **think** the missed project is the Currency Vision for Visually Impaired.
+
 ### Zoom Link
 https://us05web.zoom.us/j/83518532308?pwd=NXNJVXRTZmQ0dnhuU3A5ODNtanBRUT09
-
 <!--Our next meeting for the following projects will be on ** 2 Feb.** Insha Allah.-->
 Please send all that you achieve in the project before **31 Jan.**
 
